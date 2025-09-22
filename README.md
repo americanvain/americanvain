@@ -14,7 +14,3 @@ And I love exploring fresh and innovative things. 🍎 🍓 🥭 🥝
 
 
 -----------------------------------------------------------------------------------------------------------
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/americanvain/count.svg" />
-</p>
